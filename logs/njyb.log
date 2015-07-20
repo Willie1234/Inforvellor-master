@@ -1,0 +1,11 @@
+2015-07-14 12:45:10 [ qtp1653153736-24:37957 ] - [ INFO ] 进入方法/userLogin，当前的登录状态码为:1
+2015-07-14 12:45:10 [ qtp1653153736-27:38048 ] - [ INFO ] 进入方法/userLogin，当前的登录状态码为:1
+2015-07-14 12:45:34 [ qtp1653153736-24:62292 ] - [ INFO ] 进入数据检索业务逻辑方法...
+2015-07-14 12:55:59 [ qtp1653153736-25:687230 ] - [ INFO ] 进入数据检索业务逻辑方法...
+2015-07-14 14:45:09 [ Thread-1:7236469 ] - [ INFO ] Closing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 14 12:44:53 EDT 2015]; parent: Root WebApplicationContext
+2015-07-14 14:45:09 [ Thread-1:7236476 ] - [ INFO ] Closing Root WebApplicationContext: startup date [Tue Jul 14 12:44:32 EDT 2015]; root of context hierarchy
+2015-07-14 16:21:33 [ qtp1030384622-31:628473 ] - [ INFO ] 进入方法/userLogin，当前的登录状态码为:1
+2015-07-14 16:21:35 [ qtp1030384622-32:630949 ] - [ INFO ] 进入方法/userLogin，当前的登录状态码为:1
+2015-07-14 16:21:36 [ qtp1030384622-28:631346 ] - [ INFO ] 进入方法/userLogin，当前的登录状态码为:1
+2015-07-14 16:27:09 [ Thread-1:964680 ] - [ INFO ] Closing WebApplicationContext for namespace 'spring-servlet': startup date [Tue Jul 14 16:11:14 EDT 2015]; parent: Root WebApplicationContext
+2015-07-14 16:27:09 [ Thread-1:964687 ] - [ INFO ] Closing Root WebApplicationContext: startup date [Tue Jul 14 16:11:04 EDT 2015]; root of context hierarchy

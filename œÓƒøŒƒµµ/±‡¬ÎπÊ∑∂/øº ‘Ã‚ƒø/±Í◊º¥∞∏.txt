@@ -1,0 +1,15 @@
+一、判断题(共20题 ,每题1分)
+错错对错对  对错错错对
+对错对错对  错错对错对
+
+二、单选题（共50题 ,每题1分）
+B C D A D    A D B A C
+D D B C C    D A A C C
+A D D B B    C D D C C
+D B D A C    D D A C C
+D D C C D    D D D E D 
+
+三、多选题(共15题，每题2分)
+AB AB CD ABCD ABCD 
+AD AC AC BD AB
+ABCD BC ACD ABCD ABD
